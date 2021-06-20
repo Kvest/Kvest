@@ -1,0 +1,4 @@
+- Hi, my name is Roman and I am a Senior Android developer with more then 10 years experience in IT
+- I am a huge fun of Kotlin and Coroutines
+- I am based in Prague, Czech Republic
+- Contact me on belokon.roman@gmail.com
